@@ -23,7 +23,8 @@ void printMultiplicationTable(){
             cout<< i*l<<"\t";
     }
     cout<<endl;
-}}
+}
+}
 
 
 int main(){
